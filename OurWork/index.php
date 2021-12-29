@@ -25,7 +25,7 @@ if (!$_SESSION['user']){
         <a href="php/profile.php"><img class="ava1" src="<?= "php/" . $_SESSION['user']['avatar'] ?>" alt=""></a>
     </header>
     <main>
-
+    <h1>ГИТХАБ ХУЙНЯ ЕБАНАЯ</h1>
     </main>
     <footer>
         
